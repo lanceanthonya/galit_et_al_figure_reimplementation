@@ -12,7 +12,9 @@ random forest classifier to compare its performance with a multinomial
 4-class Logistic Regression model
 
 Original Figure 3B (Galit et al.):
+
 <img width="569" alt="image" src="https://user-images.githubusercontent.com/97372002/229393433-2f2524df-2178-4fbb-a99c-bd3dbee0c3af.png">
 
 Recreated Figure 3B: 
+
 <img width="505" alt="image" src="https://user-images.githubusercontent.com/97372002/229393346-9c0441f5-545e-4bbf-89d0-3ee6862200be.png">
