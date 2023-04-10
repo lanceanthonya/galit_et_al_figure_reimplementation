@@ -1,6 +1,6 @@
 # galit_et_al_figure_reimplementation
 Cin Aquino's contribution to a project submitted in Winter Quarter 2023 
-as part of a Dr. Aaron Meyer's Bioengineering 175 final project at UCLA. 
+as part of a final project for Dr. Aaron Meyer's Bioengineering 175 course at UCLA. 
 Presentation was cleaned up and text added to help with interpretability of results.
 (Project collaborators who worked on other figures: Susanna Ferrier, Leon Wu, and Lauren Hunter) 
 
